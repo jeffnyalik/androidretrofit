@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Fresh Basket</string>
+    <string name="itemName">Banana</string>
+    <string name="itemQuantity">34</string>
+    <string name="itemPrice">$120</string>
+    <string name="totalCost">20</string>
+    <string name="totalCostTitle">Total Cost</string>
+    <string name="title">Add Items to your cart</string>
+    <string name="etItem">Item</string>
+    <string name="etQuantity">Quantity</string>
+    <string name="etPrice">Price</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="text_view">New Text</string>
+    <string name="text_view1">Another Text</string>
+    <string name="submit">Submit</string>
+    <string name="submit_lang">Submitted Language</string>
+    <string name="hint">Please type a language</string>
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Python</item>
+        <item>Javascript</item>
+        <item>PHP</item>
+        <item>C#</item>
+        <item>C++</item>
+        <item>Scala</item>
+        <item>Rust</item>
+    </string-array>
+</resources>
