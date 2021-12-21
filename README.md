@@ -1,4 +1,4 @@
-# androidretrofit
+# Kotlin Android Retrofit
 Kotlin Android MVVM Structure  with Retrofit and Coroutines
 
 # Topics Covered
