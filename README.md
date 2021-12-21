@@ -7,4 +7,5 @@ Kotlin Android MVVM Structure  with Retrofit and Coroutines
  3. RecyclerView
  4. Displaying data in a RecyclerView
  5. Glide for displaying images from RestAPI
- 6. Adapters.
+ 6. Adapters
+ 7. Data Binding.
